@@ -27,9 +27,6 @@
   transition: all 1s;
 }
 #two .wrap .two1 ul li:hover {
-  background-color: black;
-  color: white;
-  border-top: 1px solid black;
 }
 #two .wrap .two1 ul li p{
   padding-top: 20px;
